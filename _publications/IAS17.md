@@ -5,8 +5,7 @@ permalink: /publications/IAS17
 venue: "Intelligent Autonomous Systems 17 (IAS17)"
 ---
 
-Links: 
-[Proceeding]](https://link.springer.com/chapter/10.1007/978-3-031-22216-0_49)
+Links: [Proceeding](https://link.springer.com/chapter/10.1007/978-3-031-22216-0_49)
 
 ## Abstract
 Synthesis and tasks execution is a well known problem pertaining to different fields.

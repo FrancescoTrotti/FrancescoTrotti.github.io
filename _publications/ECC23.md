@@ -5,7 +5,7 @@ permalink: /publications/ECC23
 venue: "2023 European Control Conference (ECC)"
 ---
 
-Links: [ieee]](https://ieeexplore.ieee.org/abstract/document/9655037)
+Links: [ieee](https://ieeexplore.ieee.org/abstract/document/9655037)
 
 ## Abstract
 Path planning for Unmanned Aerial Vehicles (UAVs) is a challenging and important problem that received significant attention in recent years. 
